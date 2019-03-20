@@ -1,0 +1,2 @@
+# SnapITOnboarding
+Project for interns
